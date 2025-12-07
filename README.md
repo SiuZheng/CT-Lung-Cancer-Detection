@@ -70,4 +70,5 @@ The models are evaluated based on Validation Accuracy and Loss.
 
 ## 📂 File Structure
 - `lung_cancer.ipynb`: Main project notebook containing all code for data loading, model definition, training, and evaluation.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hYBJzQ4_ye_YOasWDA6nSLkFmPH_VDiR?usp=sharing)
 - `README.md`: Project documentation.
